@@ -1,0 +1,6 @@
+This is a collection of an ImageJ macros that measures 
+minimum length between spot of interest and nucleus edge.
+
+Distance_SpotToEdgeV2 assumes the given image contains three channels
+
+Distance_SpotToEdgeV2 assumes the given image contains only two channels
